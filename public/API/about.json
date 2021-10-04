@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "picture": "https://resize.indiatvnews.com/en/resize/oldbucket/715_-/entertainmentbollywood/IndiaTv675c46_shankar.jpg",
+        "name": "Shankar Mahadevan",
+        "designation": "Founder & Ceo"
+    },
+    {
+        "id": 2,
+        "picture": "https://stat1.bollywoodhungama.in/wp-content/uploads/2017/08/%E2%80%9CA-song-is-readied-for-a-film-much-before.-So-how-can-I-delay-a-movie-or-its-soundtrack%E2%80%9D-%E2%80%93-Pritam-finally-opens-up-about-Jagga-Jasoos.jpg",
+        "name": "Pritam Chakraborty",
+        "designation": "Music Composer"
+    },
+    {
+        "id": 3,
+        "picture": "https://www.nonesuch.com/sites/g/files/g2000005811/f/201703/timo-andres-2017-michael-hill-c-str-450sq.jpg",
+        "name": "Timo Andres",
+        "designation": "Song Writter"
+    },
+    {
+        "id": 4,
+        "picture": "https://observerbd.com/2018/10/20/1540056094.jpg",
+        "name": "Bappa Mazumder",
+        "designation": "Singer"
+    },
+    {
+        "id": 5,
+        "picture": "https://www.cedillerecords.org/wp-content/uploads/2017/03/reena.jpg",
+        "name": "Reena Esmail",
+        "designation": "Piano Expert"
+    },
+    {
+        "id": 6,
+        "picture": "https://pbs.twimg.com/media/EJPpQ0UUcAEsb3m.jpg",
+        "name": "Paras Nath",
+        "designation": "Flute Expert"
+    },
+    {
+        "id": 7,
+        "picture": "https://static.toiimg.com/thumb/msid-75710599,imgsize-32247,width-800,height-600,resizemode-75/75710599.jpg",
+        "name": "Anupam Roy",
+        "designation": "Musician"
+    },
+    {
+        "id": 8,
+        "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201802/papon_647_1_0_0_0.jpeg?6wsyaeJDF.wW3pg7kvG7vtVXMl9wEhax",
+        "name": "Papon",
+        "designation": "Musician"
+    },
+    {
+        "id": 9,
+        "picture": "https://pbs.twimg.com/profile_images/1291384747227099136/jMuAw4IQ_400x400.jpg",
+        "name": "Arijit Singh",
+        "designation": "Singer"
+    },
+    {
+        "id": 10,
+        "picture": "https://thedailynewnation.com/library/1410015866_4.jpg",
+        "name": "Emon Saha",
+        "designation": "Music Composer"
+    },
+    {
+        "id": 11,
+        "picture": "https://i1.sndcdn.com/artworks-000100538782-d6xeue-t500x500.jpg",
+        "name": "Kumar Biswajit",
+        "designation": "Musician"
+    },
+    {
+        "id": 12,
+        "picture": "https://starsunfolded.com/wp-content/uploads/2017/01/Amit-Trivedi-profile.jpg",
+        "name": "Amit Trivedi",
+        "designation": "Musician"
+    }
+]

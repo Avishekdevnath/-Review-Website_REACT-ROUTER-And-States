@@ -1,3 +1,4 @@
+/* Code for App.js */
 .App {
   text-align: center;
 }
@@ -6,6 +7,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+.m-logo{
+  color: #FFA63D;
+}
+.nav-text{
+    color: #fff;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

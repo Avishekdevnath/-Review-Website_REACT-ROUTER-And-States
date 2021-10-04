@@ -1,0 +1,16 @@
+/* Style for slider */
+.slider-style{
+    height: 93.5vh;
+    width: 100%;
+    background-image: url('https://static01.nyt.com/images/2019/06/14/arts/14listings-classical2/14listings-classical2-videoSixteenByNineJumbo1600.jpg');
+}
+.Home-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.slider-btn{
+    background-color: #FFA63D;
+    color:black;
+}

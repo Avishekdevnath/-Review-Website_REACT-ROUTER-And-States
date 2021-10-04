@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "picture": "https://cdn.britannica.com/w:1100/25/193725-131-436D7C6C/sheet-music.jpg",
+        "title": "Music Theory",
+        "price": 30,
+        "duration": "6 months",
+        "instructor": "Pritam"
+    },
+    {
+        "id": 2,
+        "picture": "https://dancemusicnw.com/wp-content/uploads/2018/05/writing.jpg",
+        "title": "Song Writing",
+        "price": 50,
+        "duration": "3 months",
+        "instructor": "Timo Andres"
+    },
+    {
+        "id": 3,
+        "picture": "https://images.outlookindia.com/public/uploads/articles/2020/12/16/Tabla_4)_570_850_571_855.jpg",
+        "title": "Classical Music",
+        "price": 150,
+        "duration": "1 year",
+        "instructor": "S. Mahadevan"
+    },
+    {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3VpdGFyJTIwcGxheWVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "title": "Gutiar For Beginners",
+        "price": 35,
+        "duration": "2 months",
+        "instructor": "Bappa Mazumder"
+    },
+    {
+        "id": 5,
+        "picture": "https://www.pianotuningfortworth.com/uploads/1/2/4/5/124518540/published/piano-playing.jpg?1564669724",
+        "title": "Piano For Beginners",
+        "price": 50,
+        "duration": "6 months",
+        "instructor": "Reena Esmail"
+    },
+    {
+        "id": 6,
+        "picture": "https://images.unsplash.com/photo-1521135370171-f213cd28a4fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "title": "Flute For Beginners",
+        "price": 40,
+        "duration": "5 months",
+        "instructor": "Paras Nath"
+    },
+    {
+        "id": 7,
+        "picture": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWMlMjBwcm9kdWN0aW9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "title": "Music Production",
+        "price": 100,
+        "duration": "3 months",
+        "instructor": "Anupam Roy"
+    },
+    {
+        "id": 8,
+        "picture": "https://www.theindependentbd.com/assets/news_images/Folk-music.jpg",
+        "title": "Flok Music",
+        "price": 90,
+        "duration": "1 year",
+        "instructor": "Papon"
+    },
+    {
+        "id": 9,
+        "picture": "https://www.bollywoodhungama.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-12-at-1.06.08-PM.jpeg",
+        "title": "Pop Music",
+        "price": 50,
+        "duration": "7 months",
+        "instructor": "Arijit Singh"
+    },
+    {
+        "id": 10,
+        "picture": "https://embed-fastly.wistia.com/deliveries/9d13e363e6fdf990b8aa894b5d891cf9dd099a1f.webp?image_crop_resized=960x540",
+        "title": "Music Composition",
+        "price": 100,
+        "duration": "4 months",
+        "instructor": "Emon Saha"
+    },
+    {
+        "id": 11,
+        "picture": "https://www.alittlesparkofjoy.com/wp-content/uploads/2020/04/harmonium-buying-guide.jpg",
+        "title": "Harmonium (Intro)",
+        "price": 100,
+        "duration": "3 months",
+        "instructor": "Kumar Biswajit"
+    },
+    {
+        "id": 12,
+        "picture": "https://t4.ftcdn.net/jpg/04/31/99/71/360_F_431997110_SpoDZl7ug0wDcl3iKeNfssEk5y3w2pgK.jpg",
+        "title": "Basic Notations",
+        "price": 40,
+        "duration": "2 months",
+        "instructor": "Amit Trivedi"
+    }
+]
