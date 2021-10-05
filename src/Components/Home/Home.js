@@ -1,13 +1,13 @@
 import React from 'react';
 import './Home.css'
-import Slider from './Slider/Slider';
+import Welcome from './Slider/Welcome';
 import TopCourses from './TopCourses/TopCourses';
 
 // Code for home page
 const Home = () => {
     return (
         <div>
-            <Slider></Slider>
+            <Welcome></Welcome>
             <TopCourses></TopCourses>
         </div>
     );
