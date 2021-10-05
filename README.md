@@ -11,3 +11,6 @@ It is a website to teach music all over the world remotely.
 React, Bootstrap, CSS, HTML, Js
 
 ## Live site link
+you can see live site with this link
+
+https://a9-music-academy-avishek.netlify.app/
